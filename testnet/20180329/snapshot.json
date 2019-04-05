@@ -1,7 +1,10 @@
 {
-  "timestamp": 1522306500,
   "coordinator": {
+    "depth": 22,
+    "lastMilestone": 434524,
     "pubkey": "EQQFCZBIHRHWPXKMTOLMYUYPCN9XLMJPYZVFJSAY9FQHCCLWTOLLUGKKMXYFDBOOYFBLBI9WUEILGECYM",
-    "lastMilestone": 434524
-  }
+    "securityLevel": 1,
+    "signatureType": "CURL_P27"
+  },
+  "timestamp": 1522306500
 }
